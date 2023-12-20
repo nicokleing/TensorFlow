@@ -1,2 +1,2 @@
 # TensorFlow
-Curso TensorFlow y Practicas
+Curso TensorFlow y Prácticas
